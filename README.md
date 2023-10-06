@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=[https://m.media-amazon.com/images/I/81mU+Sr5acL._AC_UF1000,1000_QL80_.jpg](https://itbook.store/img/books/9781098103248.png) alt="logo" width=400 height=500 />
+<img src=https://m.media-amazon.com/images/I/81mU+Sr5acL._AC_UF1000,1000_QL80_.jpg alt="logo" width=400 height=500 />
 
 <h1>Natural Language Processing with Transformers, Revised Edition book</h1>
 <p>i create this repo to write code of Natural Language Processing with Transformers book, by Lewis Tunstall</p>
