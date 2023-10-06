@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FNatural-Language-Processing-Transformers-Revised%2Fdp%2F1098136799&psig=AOvVaw1f_qhOWKf2_5JIbLbzPeHR&ust=1696711788195000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjX0oym4oEDFQAAAAAdAAAAABAE alt="logo" width=400 height=500 />
+<img src=https://m.media-amazon.com/images/I/81mU+Sr5acL._AC_UF1000,1000_QL80_.jpg alt="logo" width=400 height=500 />
 
 <h1>Natural Language Processing with Transformers, Revised Edition book</h1>
 <p>i create this repo to write code of Natural Language Processing with Transformers book, by Lewis Tunstall</p>
